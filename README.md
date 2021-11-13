@@ -1,4 +1,4 @@
-# __Hi 👋 I'am Tu! I come from Vietnamese__
+# __Hi 👋 I'am Tu! I come from Vietnam 🐦🐦🐦__
 
 ![puppies running](https://github.com/luongvantuit/luongvantuit/blob/master/puppies.gif?raw=true)
 
